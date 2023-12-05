@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Unillanos.Ingenieria.Proyecto.props" />
+</Project>

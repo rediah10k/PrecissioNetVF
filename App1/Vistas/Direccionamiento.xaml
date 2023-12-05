@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Vistas.Direccionamiento"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout BackgroundColor="#343541">
+        <StackLayout VerticalOptions="StartAndExpand">
+            <ImageButton Source="configuracionW.png"
+                         HeightRequest="50"
+                         WidthRequest="50"
+                         HorizontalOptions="Start"
+                         Margin="20,20,0,0"
+                         BackgroundColor="#343541"
+                         x:Name="btnConfiguracion"
+                         Clicked="btnConfiguracion_Clicked" />
+            <Image Source="ubicacionW.png"
+                   HeightRequest="150"
+                   HorizontalOptions="Center"
+                   Margin="0,30,0,0" />
+            <Label Text="En este momento estas cerca de uno de los puntos de mejor cobertura."
+                   TextColor="White"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   Margin="0,20,0,0"
+                   FontSize="30"
+                   HorizontalTextAlignment="Center" />
+            <Image Source="flechaIzqW.png"
+                   HeightRequest="150"
+                   HorizontalOptions="Center"
+                   Margin="0,40,0,0" />
+            <Label Text="45 m"
+                   TextColor="White"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   Margin="0,30,0,0"
+                   FontSize="50"
+                   HorizontalTextAlignment="Center" />
+        </StackLayout>
+        <StackLayout VerticalOptions="End"
+                     BackgroundColor="Black">
+            <Grid ColumnDefinitions="*,*,*"
+                  BackgroundColor="Black"
+                  Margin="0,5,0,5"
+                  RowSpacing="0"
+                  ColumnSpacing="2">
+                <ImageButton Source="graficoW.png"
+                             HeightRequest="70"
+                             Grid.Column="0"
+                             BackgroundColor="Transparent"
+                             Margin="5,5,5,5"
+                             x:Name="btnStats"
+                             Clicked="btnStats_Clicked"
+                             CornerRadius="20" />
+                <ImageButton Source="signalW.png"
+                             Grid.Column="1"
+                             HeightRequest="70"
+                             BackgroundColor="#202123"
+                             Margin="5,5,5,5"
+                             CornerRadius="20" />
+                <ImageButton Source="marcadorDeMapaW.png"
+                             Grid.Column="2"
+                             HeightRequest="70"
+                             BackgroundColor="Transparent"
+                             Margin="5,5,5,5"
+                             x:Name="btnMapa"
+                             Clicked="btnMapa_Clicked"
+                             CornerRadius="20" />
+            </Grid>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

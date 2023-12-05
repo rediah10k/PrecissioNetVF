@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:Maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Vistas.Mapa"
+             NavigationPage.HasNavigationBar="False">
+    <StackLayout BackgroundColor="Black">
+        <StackLayout VerticalOptions="StartAndExpand"
+                     BackgroundColor="#343541">
+            <WebView x:Name="mapWeb"
+                     HeightRequest="750"></WebView>
+        </StackLayout>
+        <StackLayout VerticalOptions="End"
+                     BackgroundColor="Black">
+            <Grid ColumnDefinitions="*,*,*"
+                  BackgroundColor="Black"
+                  Margin="0,0,0,5"
+                  RowSpacing="0"
+                  ColumnSpacing="3">
+                <ImageButton Source="graficoW.png"
+                             Grid.Column="0"
+                             HeightRequest="70"
+                             BackgroundColor="Transparent"
+                             Margin="5,5,5,5"
+                             x:Name="btnStats"
+                             Clicked="btnStats_Clicked"
+                             CornerRadius="20" />
+                <ImageButton Source="signalW.png"
+                             Grid.Column="1"
+                             HeightRequest="70"
+                             BackgroundColor="Transparent"
+                             Margin="5,5,5,5"
+                             CornerRadius="20"
+                             x:Name="btnDireccionamiento"
+                             Clicked="btnDireccionamiento_Clicked" />
+                <ImageButton Source="marcadorDeMapaW.png"
+                             Grid.Column="2"
+                             HeightRequest="70"
+                             BackgroundColor="#202123"
+                             Margin="5,5,5,5"
+                             CornerRadius="20" />
+            </Grid>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

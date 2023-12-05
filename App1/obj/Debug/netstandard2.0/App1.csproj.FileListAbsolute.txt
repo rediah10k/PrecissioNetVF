@@ -1,0 +1,42 @@
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\Vistas\Configuracion.xaml.g.cs
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\Vistas\Mapa.xaml.g.cs
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\Vistas\Direccionamiento.xaml.g.cs
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\Vistas\Stats.xaml.g.cs
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\Vistas\Areas.xaml.g.cs
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\Vistas\Usuarios.xaml.g.cs
+C:\Users\kukar\Documents\Proyecto SOFT\App1\App1\obj\Debug\netstandard2.0\Vistas\Velocidad.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\hjara\Downloads\AppFinal\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\hjara\Downloads\AppFinal\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\hjara\Downloads\AppFinal\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\Vistas\Areas.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\Vistas\Configuracion.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\Vistas\Direccionamiento.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\Vistas\Mapa.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\Vistas\Stats.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\Vistas\Usuarios.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\Vistas\Velocidad.xaml.g.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+C:\Users\hjara\Downloads\AppFinal\App1\App1\obj\Debug\netstandard2.0\App1.pdb
